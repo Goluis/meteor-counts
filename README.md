@@ -1,6 +1,12 @@
 # meteor-counts
 very simple package to count with polling
 
+## Installation
+
+```sh
+$ meteor add cottz:counts
+```
+
 ## Quick Start
 ```js
 // server
